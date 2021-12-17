@@ -18,6 +18,7 @@ Organizational form of documents：
 
             The code file of data conversion is located at load_data_3D.ipynb
             The data set is converted into numpy array which is stored in alldata_3D.npy
+            (Because the file is very large (close to 500M), it can't be uploaded, so you can load the load_data_3D.ipynb file to generate this file(alldata_3D.npy))
             The test set is converted into numpy array which is stored in testdata_3D.npy 
             
 3.For binary classification:
